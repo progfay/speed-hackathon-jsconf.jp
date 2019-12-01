@@ -21,6 +21,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "clean-css-cli": "^4.3.0",
     "opener": "^1.5.1",
     "uglify-js": "^3.7.1",
     "wait-on": "^3.3.0"
